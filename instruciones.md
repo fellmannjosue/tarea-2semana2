@@ -1,0 +1,1 @@
+#en esta app es para registrar peliculas
